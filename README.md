@@ -12,7 +12,6 @@ Ruby download link: https://www.ruby-lang.org/en/downloads/
 Ruby Version Manager (rvm) link: https://rvm.io/rvm/install
 
 ## Prerequisites
-* Clone the git repo `https://github.com/rudizbb/Discord-automation`
 * Install bundler: `gem install bundler`
 * Update bundler: `bundle update --bundler`
 * Run install bundler: `bundle install`
