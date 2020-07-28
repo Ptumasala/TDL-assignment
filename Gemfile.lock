@@ -62,7 +62,7 @@ GEM
     identifies_as (1.1.1)
     io-like (0.3.0)
     jaro_winkler (1.5.1)
-    json (2.1.0)
+    json (2.3.0)
     launchy (2.4.3)
       addressable (~> 2.3)
     loofah (2.2.2)
